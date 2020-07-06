@@ -38,6 +38,7 @@ Steffi got the message from Mark
 ![Message Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8800.png)  
 **12) New User Registarsion**  
 ![new user1](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_6735.png)  
+Name of the user registered with the App  
 ![new user2](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7188.png)   
 ![new user3](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_9681.png)  
 ![new user4](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_5835.png)  
