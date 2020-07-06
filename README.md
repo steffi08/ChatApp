@@ -3,6 +3,7 @@ Project Code:P007<br/>
 Project Title:Chat Application  
 Project Domain:Mobile Application  
 This app was created on **Android Studio** using **Firebase Database** as a backend.  
+![Database Snap](https://github.com/steffi08/ChatApp/blob/master/AppImages/Capture.PNG) 
 
   
 **Following are the screenshots of the Chat App I created:**  
