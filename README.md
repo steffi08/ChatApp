@@ -24,4 +24,7 @@ It displays the name of users the user texted.
 **7) User Frgment**  
 It displays the name of the User's who have registered with this app.  
 ![User Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_2290.png)  
+**8) Profile Fragment**  
+It display the name of the user logged in.    
+![Profile Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8282.png)  
 
