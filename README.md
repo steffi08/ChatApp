@@ -2,6 +2,8 @@
 Project Code:P007<br/>
 Project Title:Chat Application  
 Project Domain:Mobile Application  
+This app was created on **Android Studio** using **Firebase Database** as a backend.  
+
   
 **Following are the screenshots of the Chat App I created:**  
 
