@@ -14,6 +14,14 @@ With email,username and password validation.
 ![SignUp Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_11.png)  
 **4) Login Page**  
 With email, password validation.  
-![Login Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8842.png) 
-
+![Login Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8842.png)  
+**5) Home Page**  
+Here I used tab layout which has Chat, User, and Profile fragments. It also displays the name of the user.  
+![Home Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7228.png)  
+**6) Chat Fragment**    
+It displays the name of users the user texted.  
+![Chat Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7228.png)  
+**7) User Frgment**  
+It displays the name of the User's who have registered with this app.  
+![User Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_2290.png)  
 
