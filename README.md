@@ -32,7 +32,7 @@ It display the name of the user logged in.
 **9)Message Page**  
 Mark is texting Steffi   
 ![Message Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_2435.png)  
-Steffi got the message  
+Steffi got the message from Mark    
 ![Message Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7366.png)  
 **10) Logout Button**  
 ![Message Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8800.png)  
