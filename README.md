@@ -26,5 +26,16 @@ It displays the name of the User's who have registered with this app.
 ![User Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_2290.png)  
 **8) Profile Fragment**  
 It display the name of the user logged in.    
-![Profile Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8282.png)  
+![Profile Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8282.png)      
+**9)Message Page**  
+Mark is texting Steffi   
+![Message Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_2435.png)  
+Steffi got the message  
+![Message Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7366.png)  
+**10) Logout Button**  
+![Message Activity](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8800.png)  
+
+
+
+
 
