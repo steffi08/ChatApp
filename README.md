@@ -66,7 +66,9 @@ Delete Employee
 deleted jhoncomputer from the list  
 ![Delte Employee](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7293.png)  
 **Updated Database**  
-![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Capture1.PNG)  
+Added one more employee after deleting jhon.  
+ ![Add one more employee](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_6501.png)  
+![Dataset](https://github.com/steffi08/ChatApp/blob/master/AppImages/Capture1.PNG)  
 
 
 
