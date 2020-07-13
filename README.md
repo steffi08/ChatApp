@@ -50,6 +50,7 @@ Employee information
 ![Employee info](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_4646.png)   
 ![1](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_3120.png)  
 **Add a Employee**  
+Any registerd user can add as many number of employees.
 ![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_513.png)  
 ![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_215.png)  
 ![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_1394.png)  
