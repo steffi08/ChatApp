@@ -45,6 +45,35 @@ Name of the user registered with the App
 ![new user2](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7188.png)   
 ![new user3](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_9681.png)  
 ![new user4](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_5835.png)  
+**CURD APPLICATION**  
+Employee information  
+![Employee info](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_4646.png)   
+![1](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_3120.png)  
+**Add a Employee**  
+![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_513.png)  
+![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_215.png)  
+![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_1394.png)  
+![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7606.png)  
+**Employee is add to the List**  
+OnClick of Search Employee you are directed to below activity.  
+![list of employee](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_4799.png)  
+Display employee Details   
+Here you can edit and delete the employee details.  
+![display employee details](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_8446.png)  
+Edit Employee  
+![Edit employee information](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7400.png)  
+Delete Employee  
+deleted jhoncomputer from the list  
+![Delte Employee](https://github.com/steffi08/ChatApp/blob/master/AppImages/Screen_Capture_Img_7293.png)  
+**Updated Database**  
+![Form](https://github.com/steffi08/ChatApp/blob/master/AppImages/Capture1.PNG)  
+
+
+
+
+
+
+
 
 
 
